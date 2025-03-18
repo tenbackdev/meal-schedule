@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect, useCallback } from 'react';
+import React, { useState } from 'react';
 import './style.css';
 import NotesSection from './NotesSection'; // Import the standalone component
 
